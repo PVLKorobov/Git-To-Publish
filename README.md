@@ -111,13 +111,13 @@ public class MeshReader extends TriangleFormatReader {
 
 ## **Картинки**
 ### **Случайный png файл**
-![Cog Logo](pictures\coglogo.png)
+![Cog Logo](pictures/coglogo.png)
 
 ### *top_text*\
-![Просто красивая картинка](pictures\Picture.png)
+![Просто красивая картинка](pictures/Picture.png)
 
 ### **Как я вижу собственный код в 5 утра**
-![Я сделал это, но не знаю как это читать :/](pictures\V3.1.jpg)
+![Я сделал это, но не знаю как это читать :/](pictures/V3.1.jpg)
 
 
 # **Война и Мир**
